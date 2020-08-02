@@ -1,3 +1,5 @@
+***Solution of 8 queen using UCS***
+
 ----Solution 1----
 Q _ _ _ _ _ _ _ 
 _ _ _ _ Q _ _ _ 
