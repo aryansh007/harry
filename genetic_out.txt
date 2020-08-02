@@ -1,0 +1,61 @@
+*** INPUT ***
+Enter no. of students:
+52
+
+***OUTPUT ***
+-----------group 1:18 group 2:85 group 3 : 48 fitness : 399 ----------------
+*********************GROUP-1**************************
+student  1 : 13
+student  3 : 24
+student  6 : 30
+student  13 : 18
+student  15 : 11
+student  21 : 8
+student  28 : 16
+student  36 : 24
+student  40 : 21
+student  41 : 30
+student  46 : 1
+student  48 : 10
+student  50 : 31
+*********************GROUP-2**************************
+student  0 : 90
+student  4 : 91
+student  7 : 85
+student  8 : 67
+student  9 : 88
+student  11 : 85
+student  16 : 81
+student  17 : 79
+student  19 : 101
+student  20 : 76
+student  23 : 95
+student  24 : 84
+student  32 : 75
+student  33 : 74
+student  34 : 95
+student  35 : 96
+student  37 : 93
+student  39 : 70
+student  42 : 77
+student  43 : 84
+student  47 : 81
+student  49 : 74
+*********************GROUP-3**************************
+student  2 : 59
+student  5 : 43
+student  10 : 48
+student  12 : 42
+student  14 : 55
+student  18 : 44
+student  22 : 62
+student  25 : 51
+student  26 : 47
+student  27 : 64
+student  29 : 35
+student  30 : 63
+student  31 : 59
+student  38 : 46
+student  44 : 46
+student  45 : 41
+student  51 : 62
