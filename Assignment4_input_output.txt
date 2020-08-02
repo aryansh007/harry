@@ -1,0 +1,47 @@
+Choose 1 option
+1. Two Players
+2. One player
+3. AI vs AI
+1
+Enter no. of Sticks
+5
+RULE :  Enter no. between 1 and 3
+toss
+Player 1 won toss
+--------start--------
+Player 1 chance
+2
+Remaining Sticks :  3
+Player 2 chance
+1
+Remaining Sticks :  2
+Player 1 chance
+2
+Remaining Sticks :  0
+
+Player 1 lost *** Result ***
+-------------------GAME OVER---------------
+
+Choose 1 option
+1. Two Players
+2. One player
+3. AI vs AI
+3
+Enter no. of Sticks
+6
+RULE :  Enter no. between 1 and 3
+toss
+CPU 1 won toss
+-----------------------------start-----------------------------
+CPU 1 chance
+CPU 1 selects : 1
+Remaining Sticks :  5
+CPU 2 chance
+CPU 2 selects : 1
+Remaining Sticks :  4
+CPU 1 chance
+CPU 1 selects : 3
+Remaining Sticks :  1
+
+CPU 2 lost ***Result ***
+-------------------GAME OVER---------------
